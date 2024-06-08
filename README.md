@@ -9,3 +9,7 @@ For example:
 - Trigrams (3-grams): "Natural Language Processing" → ["Natural Language Processing"]
 
 This method captures contextual information and word order, which helps in tasks like text classification, sentiment analysis, and more. The "bag" aspect indicates that the sequence of n-grams is treated as a collection where the order does not matter, focusing instead on the frequency and presence of n-grams.
+
+## Result: Confusion Matrix
+
+![alt text](image.png)
